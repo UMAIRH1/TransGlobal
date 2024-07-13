@@ -1,0 +1,16 @@
+doctor:
+
+doctor@gmail.com
+doctor123
+
+patient:
+
+
+patient@gmail.com
+patient123
+
+
+admin:
+
+admin
+admin123
